@@ -19,7 +19,7 @@ let s:defaults = {
       \ 'switch':        1,
       \ 'jump':          0,
       \ 'cword':         0,
-      \ 'prompt':        1,
+      \ 'prompt':        0,
       \ 'prompt_text':   '$c> ',
       \ 'prompt_quote':  0,
       \ 'highlight':     0,
